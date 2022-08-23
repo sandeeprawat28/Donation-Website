@@ -3,7 +3,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]()
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
 
-## 🔴 <a id="demo" href="https://animal-welfare-28.netlify.app/" target="_blank"> LIVE DEMO</a>
+## 🔴 <a id="demo" href="https://payment-gateway-system.vercel.app/" target="_blank"> LIVE DEMO</a>
 
 ## Home View :
 <img alt="Home" src="https://github.com/sandeeprawat28/Payment-Gateway-System/blob/master/screenshots/home.png" width="100%">
