@@ -1,0 +1,67 @@
+.footer {
+    padding: 30px;
+    background: rgba(0, 255, 136, 0.514);
+    height: 100%;
+    -webkit-user-select: none;
+}
+
+.footer_items {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.address, .opening_hours, .contact_info {
+    padding: 20px 0 20px 0;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    cursor: pointer;
+    padding: 12px 10px;
+    transition: 1s transform;
+}
+
+.icon:hover {
+    transform: scale(1.5);
+}
+
+h3 {
+    color: rgba(0, 0, 0, 0.555);
+    font-size: 20px;
+    text-align: center;
+}
+
+h6 {
+    padding-top: 12px;
+    text-align: center;
+}
+
+ul li {
+    list-style-type: none;
+    padding: 5px 0 5px 0;
+    font-size: 15px;
+    color: rgba(44, 43, 43, 0.568);
+}
+
+@media (max-width: 380px) {
+    h3 {
+        font-size: 12px;
+    }
+    ul ui {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 760px) {
+    .footer_items {
+        flex-direction: column;
+    }
+    .address, .opening_hours, .contact_info {
+        padding: 10px 0 10px 0;
+    }
+}

@@ -1,0 +1,45 @@
+.contact {
+    height: 100%;
+    padding: 30px 0 40px 0;
+    background-color: rgba(202, 228, 228, 0.555);
+    -webkit-user-select: none;
+}
+
+.row {
+    width: 100%;
+    padding: 20px 45px 20px 80px;
+}
+
+.contact-p {
+    font-size: 18px;
+    text-align: center;
+}
+ 
+.donate-btn-1 {
+    padding: 30px 0 30px 0;
+    justify-content: center;
+    text-align: center;
+    outline: none;
+}
+
+.donate-btn-1:active {
+    transform: translateY(2px);
+}
+
+label {
+    padding-bottom: 10px;
+}
+
+.col-md-6 {
+    padding-top: 20px;
+}
+
+@media (max-width: 760px) {
+    label {
+        padding: 0;
+    }
+    
+    .row {
+        padding: 20px 0 20px 22px;
+    }
+}
