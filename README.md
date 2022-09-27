@@ -1,18 +1,18 @@
-# Payment Gateway System
+# Donation Website
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]()
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
 
-## 🔴 <a id="demo" href="https://payment-gateway-system.vercel.app/" target="_blank"> LIVE DEMO</a>
+## 🔴 <a id="demo" href="https://animalwelfare-28.vercel.app/" target="_blank"> LIVE DEMO</a>
 
 ## Home View :
-<img alt="Home" src="https://github.com/sandeeprawat28/Payment-Gateway-System/blob/master/screenshots/home.png" width="100%">
+<img alt="Home" src="https://github.com/sandeeprawat28/Donation-Website/blob/master/screenshots/home.png" width="100%">
 
 ## Donation View :
-<img alt="Home" src="https://github.com/sandeeprawat28/Payment-Gateway-System/blob/master/screenshots/donation.png" width="100%">
+<img alt="Home" src="https://github.com/sandeeprawat28/Donation-Website/blob/master/screenshots/donation.png" width="100%">
 
 ## Payment View :
-<img alt="Home" src="https://github.com/sandeeprawat28/Payment-Gateway-System/blob/master/screenshots/payment.png" width="100%">
+<img alt="Home" src="https://github.com/sandeeprawat28/Donation-Website/blob/master/screenshots/payment.png" width="100%">
 
 # Tech-Stack :
 <img alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img alt="" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
