@@ -8,6 +8,9 @@ import PinterestIcon from '@mui/icons-material/Pinterest';
 
 
 function Footer() {
+ 
+  const year = new Date().getFullYear();
+  
   return (
     <div className="footer">
       <div className='footer_items'>
@@ -36,7 +39,7 @@ function Footer() {
         </div>
       </div>
       <hr></hr>
-      <h6>Copyright &copy; 2022 Animal Welfare | Sandeep Rawat</h6>
+      <h6>Copyright &copy; { year } Animal Welfare | Sandeep Rawat</h6>
       <div className='social-icons'>
         <div className='icon'> <InstagramIcon /> </div>
         <div className='icon'> <WhatsAppIcon /> </div>
